@@ -1,8 +1,8 @@
 # Akari Source Code
-Just the source code of Jordy Nateur's Akari project.
-I have no connection to the project or intention to progress the development of it.
-Not tested on new versions of CFW / HEN.
-Use at your own risk.
+- Just the source code of Jordy Nateur's Akari project.
+- I have no connection to the project or intention to progress the development of it.
+- Not tested on new versions of CFW / HEN (4.89/4.90).
+- Use at your own risk.
 
 
 # Original description
